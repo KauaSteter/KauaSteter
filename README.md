@@ -4,7 +4,7 @@
 
 ### Desenvolvedor de Software | Suporte Técnico Junior & Infraestrutura de TI
 
-Estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Informática pelo SENAC. Atuo com suporte técnico, administração de ambientes Windows e Linux, redes e desenvolvimento de sistemas.
+**Formado em Análise e Desenvolvimento de Sistemas**, com formação técnica em Informática pelo SENAC. Atuo nas áreas de suporte técnico, infraestrutura de TI e desenvolvimento de software, com experiência em administração de ambientes Windows e Linux, redes corporativas, servidores e desenvolvimento de sistemas e aplicações. Possuo conhecimentos em PHP, Laravel, C#, .NET, Python, bancos de dados e tecnologias voltadas à criação de soluções empresariais.
 
 [![GitHub](https://img.shields.io/badge/GitHub-KauaSteter-181717?logo=github)](https://github.com/KauaSteter)
 
