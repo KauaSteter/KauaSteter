@@ -2,7 +2,7 @@
 
 # Olá, eu sou Kauã Steter 👋
 
-### Desenvolvedor de Software | Suporte Técnico & Infraestrutura de TI
+### Desenvolvedor de Software | Suporte Técnico Junior & Infraestrutura de TI
 
 Estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Informática pelo SENAC. Atuo com suporte técnico, administração de ambientes Windows e Linux, redes e desenvolvimento de sistemas.
 
